@@ -12,7 +12,7 @@ public class Resources {
 			Gdx.files.internal("data/spritepack/spriteHD.pack"));
 
 	// Texturen werden hier reingeschrieben
-	public Animation walkUp = new Animation(0.2f, atlas.findRegion("WalkUp"));
+	public Animation walkUp = new Animation(0.2f, atlas.findRegions("WalkUp"));
 	public Animation walkLeft = new Animation(0.2f, atlas.findRegions("WalkLeft"));
 	public Animation walkDown = new Animation(0.2f, atlas.findRegions("WalkDown"));
 	public Animation walkRight = new Animation(0.2f, atlas.findRegions("WalkRight"));
@@ -46,7 +46,7 @@ public class Resources {
 		}
 		
 		// Texturen kommen hier hin.
-		walkUp = new Animation(0.2f, atlas.findRegion("WalkUp"));
+		walkUp = new Animation(0.2f, atlas.findRegions("WalkUp"));
 		walkLeft = new Animation(0.2f, atlas.findRegions("WalkLeft"));
 		walkDown = new Animation(0.2f, atlas.findRegions("WalkDown"));
 		walkRight = new Animation(0.2f, atlas.findRegions("WalkRight"));
