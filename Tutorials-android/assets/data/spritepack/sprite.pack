@@ -1,0 +1,131 @@
+
+sprite.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Background
+  rotate: false
+  xy: 1, 161
+  size: 480, 320
+  orig: 480, 320
+  offset: 0, 0
+  index: -1
+Logo
+  rotate: false
+  xy: 1, 1
+  size: 393, 158
+  orig: 393, 158
+  offset: 0, 0
+  index: -1
+WalkDown
+  rotate: false
+  xy: 483, 433
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 0
+WalkDown
+  rotate: false
+  xy: 483, 433
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 2
+WalkDown
+  rotate: false
+  xy: 396, 111
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 1
+WalkDown
+  rotate: false
+  xy: 483, 383
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 3
+WalkLeft
+  rotate: false
+  xy: 527, 433
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 0
+WalkLeft
+  rotate: false
+  xy: 527, 433
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 2
+WalkLeft
+  rotate: false
+  xy: 396, 61
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 1
+WalkLeft
+  rotate: false
+  xy: 483, 333
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 3
+WalkRight
+  rotate: false
+  xy: 527, 383
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 0
+WalkRight
+  rotate: false
+  xy: 527, 383
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 2
+WalkRight
+  rotate: false
+  xy: 571, 433
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 1
+WalkRight
+  rotate: false
+  xy: 396, 11
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 3
+WalkUp
+  rotate: false
+  xy: 483, 283
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 0
+WalkUp
+  rotate: false
+  xy: 483, 283
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 2
+WalkUp
+  rotate: false
+  xy: 527, 333
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 1
+WalkUp
+  rotate: false
+  xy: 571, 383
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: 3
